@@ -9,7 +9,7 @@
 \address{\href{mailto:apurv.bmsit@gmail.com}{apurv.bmsit@gmail.com} \\ 
 \href{http://apurvjha.ml/}{Portfolio} \\
 \href{https://www.linkedin.com/in/apurv-jha/}{LinkedIn} \\
-\href{https://github.com/believeInJha}{GitHub} \\
+\href{https://github.com/0xapurv}{GitHub} \\
 \href{https://stackoverflow.com/users/12592105/apurv-jha}{StackOverflow}\\ \href{https://runtimeterror.hashnode.dev/}{Blog}}  %
 
 \begin{document}
@@ -54,6 +54,15 @@ Soft Skills &  Freelancing, Problem-solving, Time management, Adobe Suite, Googl
 
 \begin{rSection}{EXPERIENCE}
 
+\textbf{Blockchain Intern} \hfill Dec 2022 - Mar 2023\\
+VE3 \hfill \textit{Bengaluru, India}
+ \begin{itemize}
+    \itemsep -3pt {} 
+    \item Setup permissioned HyperLedger Besu for Bank of England CBDC.
+    \item Wrote Smart Contracts for an Internal Tool which led to 45\% increase in developer productivity.
+    \item Worked closely with other team members in tasks such as troubleshooting and debugging.
+ \end{itemize}
+ 
 \textbf{Web3 Intern} \hfill Apr 2022 - Jun 2022\\
 Bitpack.me \hfill \textit{Bengaluru, India}
  \begin{itemize}
@@ -61,15 +70,6 @@ Bitpack.me \hfill \textit{Bengaluru, India}
     \item Developed a permission-less Hyperledger blockchain using Solidity \& Smart Contracts which led to a 60\% increase in on-chain performance. 
     \item Worked with Web3.js. Responsible for the development of new features in the product.
     \item Achieved a record high growth rate of 38.51\% mobile downloads.
- \end{itemize}
- 
-\textbf{SDE Intern} \hfill Sep 2020 - Dec 2020\\
-AcadPal \hfill \textit{Remote}
- \begin{itemize}
-    \itemsep -3pt {} 
-     \item Built responsive frontend for both Testpal and Acadpal apps which led to Y Combinator's \$ 500k  investment.
-     \item Steered with the Mobile Development team which led to 85\% more app traffic this quarter.
-    \item Troubleshooted RESTful API and connected the app with the backend. Built admin functionalities.
  \end{itemize}
 
 \end{rSection} 
@@ -80,9 +80,9 @@ AcadPal \hfill \textit{Remote}
 
 \begin{rSection}{PROJECTS}
 \vspace{-1.25em}
-\item \textbf{NFT Store} {NFT Store offers the solution to create an NFT exchange between collectors.\href{https://github.com/believeInJha/NFT_Store}{(GitHub)}}
+\item \textbf{NFT Store} {NFT Store offers the solution to create an NFT exchange between collectors.\href{https://github.com/0xapurv/NFT_Store}{(GitHub)}}
 \item \textbf{Dorvent} {The first and one-of-a-kind mobile community designed for the event industry.\href{https://play.google.com/store/apps/details?id=com.dorvent.dorvent&pli=1}{(Try it here!)}}
-\item \textbf{AlgoXpert} {The ultimate resource to prepare for coding interviews in one streamlined platform. \href{https://github.com/believeInJha/AlgoXpert}{(GtiHub)}}
+\item \textbf{AlgoXpert} {The ultimate resource to prepare for coding interviews in one streamlined platform. \href{https://github.com/0xapurv/AlgoXpert}{(GtiHub)}}
 \end{rSection} 
 
 %----------------------------------------------------------------------------------------
